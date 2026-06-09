@@ -1,0 +1,27 @@
+{
+  "Software Engineer": {
+    "required_skills": ["Python", "Java", "C++", "Data Structures", "Algorithms", "System Design"],
+    "preferred_skills": ["Docker", "Kubernetes", "AWS", "CI/CD"],
+    "technologies": ["Git", "Linux", "SQL", "NoSQL"]
+  },
+  "ML Engineer": {
+    "required_skills": ["Python", "Machine Learning", "Deep Learning", "PyTorch", "TensorFlow", "SQL"],
+    "preferred_skills": ["MLOps", "Model Deployment", "AWS SageMaker", "CUDA"],
+    "technologies": ["Scikit-learn", "Pandas", "NumPy", "Git", "Docker"]
+  },
+  "Data Scientist": {
+    "required_skills": ["Python", "R", "SQL", "Statistics", "Data Visualization", "Machine Learning"],
+    "preferred_skills": ["Big Data", "Spark", "Hadoop", "A/B Testing"],
+    "technologies": ["Tableau", "PowerBI", "Pandas", "Jupyter"]
+  },
+  "Frontend Engineer": {
+    "required_skills": ["HTML", "CSS", "JavaScript", "React", "TypeScript", "Responsive Design"],
+    "preferred_skills": ["Next.js", "Redux", "GraphQL", "Web Performance"],
+    "technologies": ["Tailwind CSS", "Framer Motion", "Git", "Webpack"]
+  },
+  "Backend Engineer": {
+    "required_skills": ["Python", "Java", "Node.js", "SQL", "API Design", "System Architecture"],
+    "preferred_skills": ["Microservices", "Docker", "Kubernetes", "Caching"],
+    "technologies": ["FastAPI", "Express", "PostgreSQL", "Redis"]
+  }
+}
